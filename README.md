@@ -1,4 +1,4 @@
-# Hi, I'm Nampetch 👋
+# Hi, I'm Nampetch 
 
 I'm a high school student from Thailand, working towards a computer engineering degree. I learn by building small projects and writing the code myself, from the screen a person taps to the database behind it.
 
