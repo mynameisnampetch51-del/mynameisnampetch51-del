@@ -28,12 +28,4 @@ I write in Thai and English, and I'm happy to chat in either.
 - Backend and databases: HTTP, APIs, SQL, Cloudflare Workers and D1
 - Mobile apps with Flutter and Dart
 
-## Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-222?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5_Canvas-222?style=flat&logo=html5)
-![Astro](https://img.shields.io/badge/Astro-222?style=flat&logo=astro)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-222?style=flat&logo=cloudflare)
-![SQLite / D1](https://img.shields.io/badge/D1_(SQLite)-222?style=flat&logo=sqlite)
-![Flutter](https://img.shields.io/badge/Flutter-222?style=flat&logo=flutter)
-![Git](https://img.shields.io/badge/Git_&_GitHub-222?style=flat&logo=github)
